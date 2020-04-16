@@ -1,0 +1,28 @@
+.aboutContent {
+  display: flex;
+}
+
+.aboutText {
+  color: #edf6ff;
+  margin-left: 2rem;
+}
+
+.img-div-about {
+  background-color: #edf6ff;
+  padding: 0.6rem;
+  position: absolute;
+  right: 25px;
+  top: 50px;
+  border-radius: 25px;
+}
+
+.aboutIMG {
+  width: 250px;
+  height: 270px;
+  border-radius: 25px;
+}
+
+.cvLink {
+  color: #edf6ff;
+  margin-bottom: 2rem;
+}

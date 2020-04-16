@@ -1,0 +1,49 @@
+.contact-title {
+  color: #edf6ff;
+  text-align: center;
+}
+
+.contact-content {
+  display: flex;
+}
+
+.personal-contact {
+  color: #edf6ff;
+  margin: auto 0;
+}
+
+.name-cont,
+.mail-cont,
+.phone-cont {
+  display: flex;
+}
+
+.attr {
+  height: 50px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.middle-line {
+  border: 2px solid #edf6ff;
+  margin-left: 6rem;
+  height: 250px;
+}
+
+.social-media-circles {
+  display: flex;
+  margin: auto 0;
+}
+
+.insta {
+  background: #edf6ff;
+  height: max-content;
+  border-radius: 100%;
+  margin: 1rem;
+  margin-left: 2rem;
+}
+
+.instaIc {
+  height: 40px;
+  padding: 1rem;
+}

@@ -1,0 +1,11 @@
+.title-404,
+.sub-404 {
+  color: #edf6ff;
+  text-align: center;
+}
+
+.horizontal-nav {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
